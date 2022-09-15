@@ -218,7 +218,7 @@ header nav{
     text-decoration: none;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 200;
+    font-size: 200%;
     width: 300px;
     right: 300px;
     padding: 90px;
